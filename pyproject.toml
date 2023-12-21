@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "open-cv-study"
+version = "0.1.0"
+description = ""
+authors = ["gyuha <nicegyuha@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+ruff = "^0.1.8"
+opencv-python = "^4.8.1.78"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
