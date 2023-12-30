@@ -10,6 +10,7 @@ python = "^3.10"
 ruff = "^0.1.8"
 opencv-python = "^4.8.1.78"
 pyqt6 = "^6.6.1"
+matplotlib = "^3.8.2"
 
 
 [build-system]
