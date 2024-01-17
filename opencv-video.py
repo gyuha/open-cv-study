@@ -1,6 +1,6 @@
 import cv2
 
-video = cv2.VideoCapture("2.mkv")
+video = cv2.VideoCapture("1.mkv")
 # video = cv2.VideoCapture(0)
 
 
